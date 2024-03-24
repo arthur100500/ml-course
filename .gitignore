@@ -17,3 +17,12 @@
 *.png
 *.jpeg
 *.mp4
+
+# Optuna results
+homework/optuna_results.csv
+
+# Catboost info
+*/catboost_info/*
+
+# Dataset downloaded (all zip files)
+datasets/*.zip
